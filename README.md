@@ -1,4 +1,4 @@
-# VERSION 1.0
+# VERSION 1.1
 
 # Getting Started with Create React App
 
